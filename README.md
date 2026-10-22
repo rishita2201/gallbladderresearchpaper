@@ -1,4 +1,3 @@
-﻿# gallbladderresearchpaper
 # Gallbladder Disease Classification Using Machine Learning and Deep Learning
 
 ## Overview
