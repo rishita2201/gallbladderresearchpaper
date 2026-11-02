@@ -25,6 +25,7 @@ The study uses a public gallbladder ultrasound image dataset obtained from Mende
 - **Test set size:** 1,604 images
 - **Data splitting:** Stratified training, validation, and testing sets
 - **Evaluation:** All models use the same data splits for a consistent comparison.
+- **Link:**https://data.mendeley.com/datasets/r6h24d2d3y/2.
 
 ### 2. Feature Extraction
 
